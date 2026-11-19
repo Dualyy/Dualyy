@@ -16,7 +16,7 @@ Software developer in training, currently studying with [@northcoders](https://g
 
 ## 📂 Featured project
 
-### [NC-plus-one](https://github.com/Dualyy/nc-plus-one)
+### [nc-plus-one](https://github.com/Dualyy/nc-plus-one)
 An API allows users to register, browse events, RSVP, and manage their attendance. Organisers are be able to create and manage events, and view statistics about their audience.
 
 ### [react-modal-gallery](https://github.com/Dualyy/react-modal-gallery)
@@ -27,7 +27,7 @@ A responsive photo gallery component built with React and TypeScript. It lays ou
 
 - Training to be a Software Developer at Northcoders
 - Building out reusable UI components for my photography portfolio
-- Building a Front-end for NC-plus-one
+- Building a front-end for NC-plus-one
 
 ## 📫 Get in touch
 
