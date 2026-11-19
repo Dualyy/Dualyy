@@ -16,16 +16,18 @@ Software developer in training, currently studying with [@northcoders](https://g
 
 ## 📂 Featured project
 
-### [react-modal-gallery](https://github.com/Dualyy/react-modal-gallery)
-My first solo portfolio project: a responsive photo gallery component built with React and TypeScript. It lays out a set of photos, opens each one in an accessible dialog view, and lets you step through them with simple controls. Supports light/dark modes. Still a work in progress — the plan is for it to grow into a wider UI component library.
+### [NC-plus-one](https://github.com/Dualyy/nc-plus-one)
+An API allows users to register, browse events, RSVP, and manage their attendance. Organisers are be able to create and manage events, and view statistics about their audience.
 
-🔜 **Coming soon:** a reusable React UI component library, plus projects from the Northcoders course.
+### [react-modal-gallery](https://github.com/Dualyy/react-modal-gallery)
+A responsive photo gallery component built with React and TypeScript. It lays out a set of photos, opens each one in an accessible dialog view, and lets you step through them with simple controls. Supports light/dark modes. Still a work in progress — the plan is for it to grow into a wider UI component library.
+
 
 ## 🌱 Right now
 
 - Training to be a Software Developer at Northcoders
-- Getting more comfortable with Python, and JavaScript
 - Building out reusable UI components for my photography portfolio
+- Building a Front-end for NC-plus-one
 
 ## 📫 Get in touch
 
