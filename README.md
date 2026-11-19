@@ -11,6 +11,8 @@ Software developer in training, currently studying with [@northcoders](https://g
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vitetest](https://img.shields.io/badge/vitest-grey?logo=vitest)
+
 
 ## 📂 Featured project
 
